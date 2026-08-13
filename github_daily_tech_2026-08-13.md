@@ -1,5 +1,5 @@
 # 📡 每日编程技术资讯 — 2026-08-13
-**生成时间:** 2026-08-13 02:27 UTC  
+**生成时间:** 2026-08-13 02:32 UTC  
 > 自动收集自 GitHub、Hacker News、Reddit r/programming。
 
 ## 🔥 GitHub 热门项目（按语言分类）
@@ -7,7 +7,7 @@
 *各语言生态中 star 数较高的代表性项目*
 ### Python
 
-**1. [public-apis/public-apis](https://github.com/public-apis/public-apis)** ⭐455731 · Python
+**1. [public-apis/public-apis](https://github.com/public-apis/public-apis)** ⭐455734 · Python
 > A collective list of free APIs （标签: api, apis, dataset）
 
 ### TypeScript
@@ -30,18 +30,18 @@
 
 ### Python
 
-**1. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** ⭐363484 · Python
+**1. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** ⭐363485 · Python
 > Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. （标签: design, design-patterns, design-system）
 
-**2. [vinta/awesome-python](https://github.com/vinta/awesome-python)** ⭐313634 · Python
+**2. [vinta/awesome-python](https://github.com/vinta/awesome-python)** ⭐313635 · Python
 > An opinionated list of Python frameworks, libraries, tools, and resources （标签: awesome, collections, python）
 
-**3. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)** ⭐278870 · Python
+**3. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)** ⭐278871 · Python
 > Curated list of project-based tutorials （标签: beginner-project, cpp, golang）
 
 ### JavaScript
 
-**1. [react/react](https://github.com/react/react)** ⭐247203 · JavaScript
+**1. [react/react](https://github.com/react/react)** ⭐247204 · JavaScript
 > The library for web and native user interfaces. （标签: declarative, frontend, javascript）
 
 **2. [affaan-m/ECC](https://github.com/affaan-m/ECC)** ⭐239769 · JavaScript
@@ -52,7 +52,7 @@
 **1. [vuejs/vue](https://github.com/vuejs/vue)** ⭐210232 · TypeScript
 > This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core （标签: framework, frontend, javascript）
 
-**2. [n8n-io/n8n](https://github.com/n8n-io/n8n)** ⭐200405 · TypeScript
+**2. [n8n-io/n8n](https://github.com/n8n-io/n8n)** ⭐200404 · TypeScript
 > Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. （标签: ai, apis, automation）
 
 ### C++
@@ -83,7 +83,7 @@
 **1. [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)** ⭐157735 · JavaScript
 > Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 （标签: agent, ai, context-engineering）
 
-**2. [airbnb/javascript](https://github.com/airbnb/javascript)** ⭐148135 · JavaScript
+**2. [airbnb/javascript](https://github.com/airbnb/javascript)** ⭐148136 · JavaScript
 > JavaScript Style Guide （标签: arrow-functions, es2015, es2016）
 
 ### Go
@@ -93,12 +93,12 @@
 
 ### Java
 
-**1. [krahets/hello-algo](https://github.com/krahets/hello-algo)** ⭐129382 · Java
+**1. [krahets/hello-algo](https://github.com/krahets/hello-algo)** ⭐129383 · Java
 > 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 （标签: algo, algorithm, algorithms）
 
 ### Rust
 
-**1. [farion1231/cc-switch](https://github.com/farion1231/cc-switch)** ⭐126756 · Rust
+**1. [farion1231/cc-switch](https://github.com/farion1231/cc-switch)** ⭐126757 · Rust
 > A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io （标签: ai-tools, claude-code, codex）
 
 ### C++
@@ -121,7 +121,7 @@
 
 ### Rust
 
-**1. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** ⭐120244 · Rust
+**1. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** ⭐120245 · Rust
 > An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. （标签: android, anydesk, dart）
 
 ### C++
@@ -136,7 +136,7 @@
 
 ### C#
 
-**1. [2dust/v2rayN](https://github.com/2dust/v2rayN)** ⭐113674 · C#
+**1. [2dust/v2rayN](https://github.com/2dust/v2rayN)** ⭐113675 · C#
 > A GUI client for Windows, Linux and macOS, support Xray and sing-box and others （标签: proxy, shadowsocks, socks5）
 
 ### Swift
@@ -203,7 +203,7 @@
 
 ### C#
 
-**1. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)** ⭐55715 · C#
+**1. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)** ⭐55716 · C#
 > The Free Software Media System - Server Backend & API （标签: csharp, dotnet, hacktoberfest）
 
 **2. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)** ⭐54818 · C#
@@ -221,7 +221,7 @@
 
 ### Swift
 
-**1. [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)** ⭐53045 · Swift
+**1. [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)** ⭐53044 · Swift
 > A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects （标签: apple-swift, arkit, awesome）
 
 ### Ruby
@@ -231,7 +231,7 @@
 
 ### Kotlin
 
-**1. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)** ⭐50217 · Kotlin
+**1. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)** ⭐50218 · Kotlin
 > 翻墙-科学上网 （标签: brook, daze, fanqiang）
 
 ### Ruby
@@ -244,7 +244,7 @@
 
 ### Swift
 
-**1. [apple/container](https://github.com/apple/container)** ⭐48909 · Swift
+**1. [apple/container](https://github.com/apple/container)** ⭐48908 · Swift
 > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 
 ### Kotlin
@@ -284,31 +284,31 @@
 
 ## 📰 Hacker News 编程相关热帖
 
-**1. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)** 赞 815 · 评论 149 · ropbear
+**1. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)** 赞 817 · 评论 152 · ropbear
 
-**2. [Tim King, AmigaDOS developer, has died](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html)** 赞 240 · 评论 29 · doener
+**2. [Tim King, AmigaDOS developer, has died](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html)** 赞 241 · 评论 29 · doener
 
 **3. [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)** 赞 151 · 评论 111 · redbell
 
-**4. [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)** 赞 17 · 评论 2 · danielkimber
+**4. [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)** 赞 18 · 评论 2 · danielkimber
 
 **5. [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)** 赞 116 · 评论 22 · advaith08
 
-**6. [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)** 赞 236 · 评论 175 · gavinhking
+**6. [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)** 赞 238 · 评论 176 · gavinhking
 
 **7. [Waits: Arthur Samuel's Checkers](https://timereshared.com/waits-samuel-checkers/)** 赞 5 · 评论 0 · abrax3141
 
 **8. [A Tale of Dynamic Programming (2022)](https://iagoleal.com/posts/dynamic-programming/)** 赞 72 · 评论 5 · Brajeshwar
 
-**9. [Lovable raises $400M Series C](https://lovable.dev/blog/series-c)** 赞 98 · 评论 95 · thoughtpeddler
+**9. [Lovable raises $400M Series C](https://lovable.dev/blog/series-c)** 赞 98 · 评论 96 · thoughtpeddler
 
-**10. [AI is removing the middle class of software engineering?](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)** 赞 738 · 评论 671 · florianherrengt
+**10. [AI is removing the middle class of software engineering?](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)** 赞 739 · 评论 675 · florianherrengt
 
 **11. [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)** 赞 238 · 评论 134 · ColinWright
 
 **12. [Anthropic in Talks to Buy World Model AI Startup Decart for $6B](https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion)** 赞 6 · 评论 0 · htrp
 
-**13. [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/)** 赞 155 · 评论 17 · bookofjoe
+**13. [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/)** 赞 156 · 评论 17 · bookofjoe
 
 **14. [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)** 赞 166 · 评论 122 · layer8
 
