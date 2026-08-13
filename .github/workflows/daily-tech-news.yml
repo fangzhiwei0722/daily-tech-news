@@ -1,0 +1,53 @@
+name: 每日编程技术资讯收集
+
+on:
+  schedule:
+    # 每天北京时间早上 8 点运行（UTC 0:00）
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # 允许手动触发测试
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装 gh CLI
+        run: |
+          sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key 7F207A55
+          echo "deb https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list
+          sudo apt update
+          sudo apt install -y gh
+
+      - name: 配置 GitHub 身份
+        run: |
+          echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+          gh auth setup-git
+
+      - name: 运行收集脚本
+        run: |
+          python3 ${{ github.workspace }}/github_daily_tech_collector.py
+
+      - name: 提交并推送报告
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          FILE="github_daily_tech_${TODAY}.md"
+          if [ -f "$FILE" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add "$FILE"
+            git commit -m "每日技术资讯报告 (${TODAY})" || echo "无新变化，跳过提交"
+            git push
+            echo "✅ 报告已推送: $FILE"
+          else
+            echo "⚠️ 未找到报告文件"
+          fi
